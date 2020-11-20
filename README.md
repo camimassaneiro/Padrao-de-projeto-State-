@@ -1,4 +1,4 @@
-# Padrao-de-projeto-State-
+# Padrao de projeto State 
 
 Atividade proposta pelo Prof. Adilson Vahldick - Universidade do Estado de Santa Catarina - UDESC
 
