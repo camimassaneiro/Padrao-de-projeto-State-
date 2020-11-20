@@ -2,6 +2,10 @@
 
 Atividade proposta pelo Prof. Adilson Vahldick - Universidade do Estado de Santa Catarina - UDESC
 
+#### Problema: Implementar o estado Bloqueado e a sua transição do estado anterior. Quando entrarPin no estado Bloqueado, deve-se disparar uma exceção.
+
+![Diagrama](https://github.com/camimassaneiro/Padrao-de-projeto-State-/blob/master/diagrama%202%20state.PNG)
+
 Intenção: permite a um objeto alterar seu comportamento quando o seu estado interno muda. O objeto parecerá ter mudado sua classe.
 
 Aplicabilidade - Use o padrão State em um dos dois casos seguintes:
